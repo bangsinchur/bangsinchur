@@ -1,5 +1,5 @@
 <div align= "center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:feae01&height=180&text=Sinchur%20Bang&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
